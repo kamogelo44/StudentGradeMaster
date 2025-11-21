@@ -3,5 +3,5 @@ Java-based grade management system with multi-subject support, automated grading
 
 **Features:** Multi-subject grading , Automated A-F grades , Class statistics , Input validation , Professional reports.
 
-**#How to run.**
-# Open in NetBeans or compile with javac
+**How to run.**
+**Open in NetBeans or compile with javac.**
