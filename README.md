@@ -1,4 +1,4 @@
-# Student Grade Calculator
+# Student Grade Master
 
 A Java program for calculating and managing student grades.
 
