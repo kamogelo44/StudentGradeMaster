@@ -1,16 +1,16 @@
 Student Grade Calculator
-A Java program that helps teachers calculate and manage student grades easily.
+A Java program for calculating and managing student grades.
 
 What This Program Does
-📝 Add student names and marks for 5 subjects
+Add student names and marks for 5 subjects
 
-🧮 Automatically calculates total marks and average percentage
+Automatically calculates total marks and average percentage
 
-📊 Assigns grades (A, B, C, D, F) based on performance
+Assigns grades (A, B, C, D, F) based on performance
 
-📈 Shows class summary with statistics
+Shows class summary with statistics
 
-💾 Stores up to 10 students at a time
+Stores up to 10 students at a time
 
 How to Run
 Make sure you have Java installed
@@ -32,7 +32,7 @@ Subject 3 mark: 78
 Subject 4 mark: 88
 Subject 5 mark: 95
 
---- Student Report ---
+Student Report:
 Name: John Smith
 Total Marks: 438/500
 Average: 87.6%
@@ -49,15 +49,15 @@ D: 60-69%
 F: Below 60%
 
 What I Learned
-How to use arrays to store multiple students
+Using arrays to store multiple students
 
-How to create multiple classes for better organization
+Creating multiple classes for better organization
 
-How to calculate grades and averages
+Calculating grades and averages
 
-How to validate user input
+Validating user input
 
-How to display formatted reports
+Displaying formatted reports
 
 Object-Oriented Programming concepts
 
@@ -67,8 +67,6 @@ This is a practice project for learning Java
 Maximum 10 students can be stored
 
 Each student can have 5 subjects
-
-Real grading systems are more complex!
 
 Made by
 Obakeng Phale - Learning Java Programming
